@@ -8,6 +8,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import _06_minion.Minion;
+
 
 /*
 
